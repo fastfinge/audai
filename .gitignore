@@ -1,0 +1,6 @@
+.venv/
+outputs/
+__pycache__/
+*.pyc
+# 63 MB decode of the .mp3 next to it
+samples/Lorne Greene reads the news in 1943 CBC.wav
